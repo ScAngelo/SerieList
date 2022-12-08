@@ -1,4 +1,4 @@
-# frontend
+# frontend with vue for serielist api
 
 ## Project setup
 ```
